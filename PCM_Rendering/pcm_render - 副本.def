@@ -1,0 +1,7 @@
+LIBRARY "PCM_Rendering"
+EXPORTS
+ pcm_render_init  @1
+ input_pcmdata_play  @2
+ pcm_play    @3
+ pcm_stop  @4
+ pcm_render_cleanup   @5
